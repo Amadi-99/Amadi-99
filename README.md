@@ -8,7 +8,6 @@ Frontend Developer
 I'm Amadi Anuththara, a student who is passionate about learning and exploring the world of coding and software development. I have been honing my skills in Software Development through my studies and personal projects.
 
 * 🌍  I'm based in Kalutara
-* 🖥️  See my portfolio at [Myportfolio](http://amadi.tech)
 * ✉️  You can contact me at [amadianuththara111@gmail.com](mailto:amadianuththara111@gmail.com)
 * 🚀  I'm currently working on [MyProject](http://github.com/Amadi-99/SMS_Classification)
 * 🧠  I'm learning Machine Learning
@@ -41,7 +40,7 @@ I'm Amadi Anuththara, a student who is passionate about learning and exploring t
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/amadianuththara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/Amadi-99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/amadianuththara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@amadianuththara111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/channel/UCXL4zkdEPE3vUss9V4bIYbQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.behance.com/amadianuththara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a><a href="https://www.github.com/Amadi-99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /><a href="http://www.medium.com/@amadianuththara111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/channel/UCXL4zkdEPE3vUss9V4bIYbQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
